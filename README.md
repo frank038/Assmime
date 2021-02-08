@@ -27,4 +27,4 @@ executable from the right list, also whether it is marked with (-).
 This program can only make changes in the mimeapps.list file located 
 in the "HOME/.config" folder.
 
-![My image]()
+![My image](https://github.com/frank038/Assmime/blob/main/screenshot1.png)
