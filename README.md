@@ -1,5 +1,7 @@
 # Assmime
-Associats programs and mimetypes. 
+Associats programs and mimetypes.
+
+Requirement: pyqt5, pyxdg.
 
 This program has three parts.
 
